@@ -13,9 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/JebBarbas/easycolors.git"
   },
-  "keywords": [],
+  "keywords": [
+    "color", "colors", "web", "bootstrap", "tailwind", "tailwindcss", "material", "ui", "ux", "materialui"
+  ],
   "author": "jebbarbas",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JebBarbas/easycolors/issues"
   },
