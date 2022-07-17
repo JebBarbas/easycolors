@@ -1,0 +1,30 @@
+{
+  "name": "easycolors",
+  "version": "1.0.0",
+  "description": "Package that stores colors of the web and many popular css frameworks; it also has functions to manipulate them",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "release": "standard-version",
+    "share": "git push --follow-tags origin main && npm publish",
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JebBarbas/easycolors.git"
+  },
+  "keywords": [],
+  "author": "jebbarbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JebBarbas/easycolors/issues"
+  },
+  "homepage": "https://github.com/JebBarbas/easycolors#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/parser": "^5.30.6",
+    "eslint": "^8.20.0",
+    "standard-version": "^9.5.0",
+    "typescript": "^4.7.4"
+  }
+}

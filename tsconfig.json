@@ -1,0 +1,62 @@
+{
+  "compilerOptions": {
+    ////////// General //////////
+    "target": "ES6",
+    /* ES6 does not support IE, but for NODE modules is ok, to react modules use ESNext. */
+
+    "module": "CommonJS",
+    /* CommonJS for "normal modules", ESNext for react modules */
+
+    // "lib": [],
+    /* Libraries for functions in higher ecmascript versions. */
+
+    // "jsx": "preserve",
+    /* Specify JSX code generation: 'preserve', 'react-native', 'react', 'react-jsx' or 'react-jsxdev'. */
+
+    "declaration": true,
+
+    "outDir": "./build",
+
+    "rootDir": "./src",
+    
+    ////////// Strict //////////
+    "strict": true,
+    /* This activates all the strict rules */ 
+
+    ////////// Additional Checks //////////
+    "noUnusedLocals": true,
+    /* Report errors on unused locals. */
+
+    "noUnusedParameters": true,
+    /* Report errors on unused parameters. */
+
+    "noImplicitReturns": true, 
+    /* Report error when not all code paths in function return a value. */
+
+    "noFallthroughCasesInSwitch": true,
+    /* Report errors for fallthrough cases in switch statement. */
+
+    "noUncheckedIndexedAccess": true,
+    /* Include 'undefined' in index signature results */
+
+    "noImplicitOverride": true,
+    /* Ensure overriding members in derived classes are marked with an 'override' modifier. */
+
+    "noPropertyAccessFromIndexSignature": true, 
+    /* Require undeclared properties from index signatures to use element accesses. */
+
+    // "paths": {},
+    /* A series of entries which re-map imports to lookup locations relative to the 'baseUrl'. */
+
+    "esModuleInterop": true,
+    /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+
+    ////////// Advanced Options //////////
+    "skipLibCheck": true,
+    /* Skip type checking of declaration files. */
+
+    "forceConsistentCasingInFileNames": true
+    /* Disallow inconsistently-cased references to the same file. */
+  },
+  "include": ["src/**/*"],
+}
