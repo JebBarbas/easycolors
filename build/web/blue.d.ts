@@ -1,0 +1,15 @@
+export declare const midnightBlue = "#191970";
+export declare const navy = "#000080";
+export declare const darkBlue = "#00008b";
+export declare const mediumBlue = "#0000cd";
+export declare const blue = "#0000ff";
+export declare const royalBlue = "#4169e1";
+export declare const steelBlue = "#4682b4";
+export declare const dodgerBlue = "#1e90ff";
+export declare const deepSkyBlue = "#00bfff";
+export declare const cornflowerBlue = "#6495ed";
+export declare const skyBlue = "#87ceeb";
+export declare const lightSkyBlue = "#87cefa";
+export declare const lightSteelBlue = "#b0c4de";
+export declare const lightBlue = "#add8e6";
+export declare const powderBlue = "#b0e0e6";

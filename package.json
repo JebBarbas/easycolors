@@ -4,6 +4,7 @@
   "description": "Package that stores colors of the web and many popular css frameworks; it also has functions to manipulate them",
   "main": "build/index.js",
   "scripts": {
+    "create": "node creators",
     "build": "tsc",
     "release": "standard-version",
     "share": "git push --follow-tags origin main && npm publish",
@@ -14,7 +15,16 @@
     "url": "git+https://github.com/JebBarbas/easycolors.git"
   },
   "keywords": [
-    "color", "colors", "web", "bootstrap", "tailwind", "tailwindcss", "material", "ui", "ux", "materialui"
+    "color",
+    "colors",
+    "web",
+    "bootstrap",
+    "tailwind",
+    "tailwindcss",
+    "material",
+    "ui",
+    "ux",
+    "materialui"
   ],
   "author": "jebbarbas",
   "license": "MIT",

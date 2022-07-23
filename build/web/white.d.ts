@@ -1,0 +1,17 @@
+export declare const mistyRose = "#ffe4e1";
+export declare const antiqueWhite = "#faebd7";
+export declare const linen = "#faf0e6";
+export declare const beige = "#f5f5dc";
+export declare const whiteSmoke = "#f5f5f5";
+export declare const lavenderBlush = "#fff0f5";
+export declare const oldLace = "#fdf5e6";
+export declare const aliceBlue = "#f0f8ff";
+export declare const seashell = "#fff5ee";
+export declare const ghostWhite = "#f8f8ff";
+export declare const honeydew = "#f0fff0";
+export declare const floralWhite = "#fffaf0";
+export declare const azure = "#f0ffff";
+export declare const mintCream = "#f5fffa";
+export declare const snow = "#fffafa";
+export declare const ivory = "#fffff0";
+export declare const white = "#ffffff";

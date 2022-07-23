@@ -1,0 +1,8 @@
+export const primary = '#0d6efd'
+export const secondary = '#6c757d'
+export const success = '#198754'
+export const danger = '#dc3545'
+export const warning = '#ffc107'
+export const info = '#0dcaf0'
+export const light = '#f8f9fa'
+export const dark = '#212529'

@@ -1,0 +1,10 @@
+export declare const black = "#000000";
+export declare const darkSlateGray = "#2f4f4f";
+export declare const dimGray = "#696969";
+export declare const slateGray = "#708090";
+export declare const gray = "#808080";
+export declare const lightSlateGray = "#778899";
+export declare const darkGray = "#a9a9a9";
+export declare const silver = "#c0c0c0";
+export declare const lightGray = "#d3d3d3";
+export declare const gainsboro = "#dcdcdc";

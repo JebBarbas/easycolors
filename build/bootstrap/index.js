@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.dark = exports.light = exports.info = exports.warning = exports.danger = exports.success = exports.secondary = exports.primary = void 0;
+exports.primary = '#0d6efd';
+exports.secondary = '#6c757d';
+exports.success = '#198754';
+exports.danger = '#dc3545';
+exports.warning = '#ffc107';
+exports.info = '#0dcaf0';
+exports.light = '#f8f9fa';
+exports.dark = '#212529';

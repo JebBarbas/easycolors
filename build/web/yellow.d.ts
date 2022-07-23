@@ -1,0 +1,11 @@
+export declare const darkKhaki = "#bdb76b";
+export declare const gold = "#ffd700";
+export declare const khaki = "#f0e68c";
+export declare const peachPuff = "#ffdab9";
+export declare const yellow = "#ffff00";
+export declare const paleGoldenrod = "#eee8aa";
+export declare const moccasin = "#ffe4b5";
+export declare const papayaWhip = "#ffefd5";
+export declare const lightGoldenrodYellow = "#fafad2";
+export declare const lemonChiffon = "#fffacd";
+export declare const lightYellow = "#ffffe0";

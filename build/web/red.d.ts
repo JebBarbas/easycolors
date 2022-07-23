@@ -1,0 +1,9 @@
+export declare const darkRed = "#8b0000";
+export declare const red = "#ff0000";
+export declare const firebrick = "#b22222";
+export declare const crimson = "#dc143c";
+export declare const indianRed = "#cd5c5c";
+export declare const lightCoral = "#f08080";
+export declare const salmon = "#fa8072";
+export declare const darkSalmon = "#e9967a";
+export declare const lightSalmon = "#ffa07a";

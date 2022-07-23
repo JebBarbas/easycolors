@@ -1,0 +1,12 @@
+export declare const teal = "#008080";
+export declare const darkCyan = "#008b8b";
+export declare const lightSeaGreen = "#20b2aa";
+export declare const cadetBlue = "#5f9ea0";
+export declare const darkTurquoise = "#00ced1";
+export declare const mediumTurquoise = "#48d1cc";
+export declare const turquoise = "#40e0d0";
+export declare const aqua = "#00ffff";
+export declare const cyan = "#00ffff";
+export declare const aquamarine = "#7fffd4";
+export declare const paleTurquoise = "#afeeee";
+export declare const lightCyan = "#e0ffff";

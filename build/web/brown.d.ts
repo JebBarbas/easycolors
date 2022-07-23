@@ -1,0 +1,17 @@
+export declare const maroon = "#800000";
+export declare const brown = "#a52a2a";
+export declare const saddleBrown = "#8b4513";
+export declare const sienna = "#a0522d";
+export declare const chocolate = "#d2691e";
+export declare const darkGoldenrod = "#b8860b";
+export declare const peru = "#cd853f";
+export declare const rosyBrown = "#bc8f8f";
+export declare const goldenrod = "#daa520";
+export declare const sandyBrown = "#f4a460";
+export declare const tan = "#d2b48c";
+export declare const burlywood = "#deb887";
+export declare const wheat = "#f5deb3";
+export declare const navajoWhite = "#ffdead";
+export declare const bisque = "#ffe4c4";
+export declare const blanchedAlmond = "#ffebcd";
+export declare const cornsilk = "#fff8dc";
