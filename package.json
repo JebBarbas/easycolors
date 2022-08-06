@@ -1,6 +1,6 @@
 {
   "name": "easycolors",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Package that stores colors of the web and many popular css frameworks",
   "main": "build/index.js",
   "scripts": {
