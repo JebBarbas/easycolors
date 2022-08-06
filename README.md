@@ -1,9 +1,8 @@
 # EasyColors
 
-Package that stores colors of the web and many popular css frameworks; it also has functions to 
-manipulate them.
+Package that stores colors of the web and many popular css frameworks.
 
-Currently, it stores colors from `Web Colors`, `Bootstrap`, `Tailwind` and `Material`.
+Currently, it stores `Web`, `Bootstrap`, `Tailwind` and `Material` colors.
 
 ## Instalation
 
@@ -261,29 +260,3 @@ this interface contains all the shades of a color of Tailwind.
 
 Note: This type is exported from `easycolors/tailwind`, so, if you try to import it from `easycolors`, this
 won't work.
-
-## Utils
-
-Easycolors also exports some functions to use if you want to get some things of the colors
-
-- `contrastColor(color:string, darkColorText?:string, lightColorText?:string)`: Gets the best text color
-when you have a background of the given color. If the given color is a light color, then the returned color
-will be '#000000', unless you provide the `darkColorText` option, then, this color will be returned (please
-provide a dark color like `#121212` or `#000022`), the same applies with `lightColorText`, but this color
-is returned when the given color is a dark color (please provide a light color like `#ffdddd` or `#ddffff`).
-
-- `fromHSL(hue:number, saturation:number, lightness:number)`: Returns an hexadecimal color based on HUE
-components, the hue is a number in a range 0..359, saturation a number in range 0..100 and lightness
-a number in the range 0..100.
-
-- `fromRGB(red:number, green:number, blue:number)`: Returns an hexadecimal color based on RGB components, 
-red, green and blue are numbers in the range 0..255.
-
-- `getHSLComponents(color:string)`: Returns the hsl components (hue, saturation and lightness) of a 
-given hexadecimal color (#124245 for example).
-
-- `getRGBComponents(color:string)`: Returns the rbg components (red, green and blue) of a 
-given hexadecimal color (#124245 for example).
-
-- `getYIQ(color:string)`: Returns the YIQ value of the color, colors with YIQ's >= 128 are light 
-colors.

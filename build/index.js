@@ -23,7 +23,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.utils = exports.tailwind = exports.material = exports.bootstrap = exports.web = void 0;
+exports.tailwind = exports.material = exports.bootstrap = exports.web = void 0;
 const web = __importStar(require("./web"));
 exports.web = web;
 const bootstrap = __importStar(require("./bootstrap"));
@@ -32,5 +32,3 @@ const material = __importStar(require("./material"));
 exports.material = material;
 const tailwind = __importStar(require("./tailwind"));
 exports.tailwind = tailwind;
-const utils = __importStar(require("./utils"));
-exports.utils = utils;
